@@ -1,6 +1,6 @@
 ################################################################################################
 
-Readme for Creative | Bootstrap 4 Template - https://bootstrapious.com
+Readme for Creative | Bootstrap 4 Template - http://bootstrapious.com
 
 ################################################################################################
 
@@ -28,8 +28,8 @@ Apart from the Bootstrap JS components, the majority of JS is located in /js/fro
  CREDITS
 ---------------------
 
-- Botstrap 4.1 - https://getbootstrap.com/
-- Font Awesome 4.7 - https://fontawesome.io/
+- Botstrap 4.1 - http://getbootstrap.com/
+- Font Awesome 4.7 - http://fontawesome.io/
 - more in credits.txt.
 
 ---------------------
@@ -39,7 +39,7 @@ Apart from the Bootstrap JS components, the majority of JS is located in /js/fro
 You are completely free to use this template for your personal use or as a work for your client as
 long as you keep the link at the template footer pointing to us and our partner.
 
-If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate)
+If you would prefer removing the backlink from the theme footer, please donate (http://bootstrapious.com/donate)
 to support themes' development. Suggested amount per template is $10.
 Also, as a bonus for donors, I can provide you the SASS files for even easier template customization.
 Drop me a line at hello@bootstrapious.com after donating.

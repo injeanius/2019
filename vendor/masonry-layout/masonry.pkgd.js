@@ -1,7 +1,7 @@
 /*!
  * Masonry PACKAGED v4.2.1
  * Cascading grid layout library
- * https://masonry.desandro.com
+ * http://masonry.desandro.com
  * MIT License
  * by David DeSandro
  */
@@ -347,14 +347,14 @@ function getZeroSize() {
 
 /**
  * getStyle, get style of element, check for Firefox bug
- * https://bugzilla.mozilla.org/show_bug.cgi?id=548397
+ * http://bugzilla.mozilla.org/show_bug.cgi?id=548397
  */
 function getStyle( elem ) {
   var style = getComputedStyle( elem );
   if ( !style ) {
     logError( 'Style returned ' + style +
       '. Are you running this code in a hidden iframe on Firefox? ' +
-      'See https://bit.ly/getsizebug1' );
+      'See http://bit.ly/getsizebug1' );
   }
   return style;
 }
@@ -711,7 +711,7 @@ utils.docReady = function( callback ) {
 
 // ----- htmlInit ----- //
 
-// https://jamesroberts.name/blog/2010/02/22/string-functions-for-javascript-trim-to-camel-case-to-dashed-and-to-underscore/
+// http://jamesroberts.name/blog/2010/02/22/string-functions-for-javascript-trim-to-camel-case-to-dashed-and-to-underscore/
 utils.toDashed = function( str ) {
   return str.replace( /(.)([A-Z])/g, function( match, $1, $2 ) {
     return $1 + '-' + $2;
@@ -1069,7 +1069,7 @@ proto.transition = function( args ) {
   // set from styles
   if ( args.from ) {
     this.css( args.from );
-    // force redraw. https://blog.alexmaccaw.com/css-transitions
+    // force redraw. http://blog.alexmaccaw.com/css-transitions
     var h = this.element.offsetHeight;
     // hack for JSHint to hush about unused var
     h = null;
@@ -2263,7 +2263,7 @@ return Outlayer;
 /*!
  * Masonry v4.2.1
  * Cascading grid layout library
- * https://masonry.desandro.com
+ * http://masonry.desandro.com
  * MIT License
  * by David DeSandro
  */
